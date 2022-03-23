@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6252f024-dc05-430a-bcb5-0862c1090c47": {
+      "ProjectGuid": "6252f024-dc05-430a-bcb5-0862c1090c47",
+      "DisplayName": "ClaimsMicroservice",
+      "ColorIndex": 0
+    },
+    "a6478fc4-d982-4eb6-9427-f165e3a4f926": {
+      "ProjectGuid": "a6478fc4-d982-4eb6-9427-f165e3a4f926",
+      "DisplayName": "ClaimServiceTesting",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
